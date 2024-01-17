@@ -1,5 +1,10 @@
-We uploaded part of the code.
-If you have any questions, please contact me : dong_i@163.com 
+【苏州大学2023级研究生秋季机器学习期末大作业】题目要求：
+![image](https://github.com/MaoDong9/sequence-feature-predicton-ML-and-DL/assets/103551781/ffd1d472-5480-481c-81e2-e63101816d5e)  
+
+
+
+We uploaded part of the code. 
+Due to the environment configuration and other factors, we do not guarantee that the code will run completely, but the logic of the code we can guarantee. If you have any questions, please contact me : dong_i@163.com .
 
 **Note**: 1) m_model represents LSTM-Encoder-Decoder model, the models have the same train and test function; 2) When running, pay attention to the location of the file.
 
