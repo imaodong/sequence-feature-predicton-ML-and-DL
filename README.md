@@ -1,7 +1,7 @@
 We uploaded part of the code.
 transformer-based model is coming soon!
 
-**Note**: m_model represents LSTM-Encoder-Decoder model, the models have the same train and test function.
+**Note**: 1) m_model represents LSTM-Encoder-Decoder model, the models have the same train and test function; 2) When running, pay attention to the location of the file.
 
 some of **LSTM-Encoder-Decoder** predicted effects as follows:  
 
