@@ -6,7 +6,8 @@
 We uploaded part of the code. 
 Due to the environment configuration and other factors, we do not guarantee that the code will run completely, but the logic of the code we can guarantee. If you have any questions, please contact me : dong_i@163.com .
 
-**Note**: **1)** m_model represents LSTM-Encoder-Decoder model, the models have the same train and test function;   
+**Note**:   
+**1)** m_model represents LSTM-Encoder-Decoder model, the models have the same train and test function;   
 **2)** When running, pay attention to the location of the file;   
 **3)** The transformer-base model was completed by another member of the group, and the other two were modeled by me. Data processing and training test functions are also done by me;   
 **4)** The report will be submitted after the teacher finishes grading.  
