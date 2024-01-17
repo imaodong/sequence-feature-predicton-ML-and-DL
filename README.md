@@ -9,6 +9,11 @@ some of **LSTM-Encoder-Decoder** predicted effects as follows:
 ![image](https://github.com/MaoDong9/sequence-feature-predicton-ML-and-DL/assets/103551781/02360741-e423-4f74-9862-1176305b6ae1)  
 
 
+some of **transformer-base** predicted effects as follows:  
+![image](https://github.com/MaoDong9/sequence-feature-predicton-ML-and-DL/assets/103551781/f79e60e2-221b-45ac-8b5d-d58b2c9840b8)
+![image](https://github.com/MaoDong9/sequence-feature-predicton-ML-and-DL/assets/103551781/50070089-8f00-4045-b943-78de0efa8d80)  
+
+
 
 
 
