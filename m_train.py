@@ -30,7 +30,7 @@ def m_train():
 
 
     model = m_model.model_lstm(embedding_dim,hidden_dim,dropout_rate).cuda()
-    loss_MSE = nn.L1Loss(reduce=True,size_average=True).cuda()
+    loss_MSE = nn.MAELoss(reduce=True,size_average=True).cuda()
     optimizer = torch.optim.Adam(model.parameters(),lr=learning_rate)
     iters = 0
     no_improve = 0
@@ -73,7 +73,7 @@ def m_train():
 def evaluate(model,data_loader,mod=None,plt=None):
     model.eval()
     loss_total = 0
-    loss_MSE = nn.L1Loss(reduce=True,size_average=True).cuda()
+    loss_MSE = nn.MAELoss(reduce=True,size_average=True).cuda()
     with torch.no_grad():
         for data,label in data_loader:
 
